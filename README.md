@@ -1,3 +1,5 @@
 # Git チュートリアル
 
-abc
+ - feature-A
+ - fix-B
+
